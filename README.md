@@ -1,4 +1,4 @@
-Immo Plus API project
+# Immo Plus API project
 
 This project is a REST API build using Java, SpringBoot, H2 and Maven.
 
@@ -15,3 +15,5 @@ It allows :
 - to get reservation by id
 - to get all reservations
 
+## Diagramme des classes
+![Diagramme UML](docs/diagramme.png)
