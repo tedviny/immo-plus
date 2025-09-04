@@ -16,4 +16,4 @@ It allows :
 - to get all reservations
 
 ## Diagramme des classes
-![Diagramme UML](docs/diagramme.png)
+![Diagramme UML](docs/diagramme-uml.png)
